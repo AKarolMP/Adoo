@@ -1,1 +1,5 @@
+title: "Mi Portafolio"
+description: "Portafolio de proyectos personales"
 theme: minima
+baseurl: "" # deja esto vacío si no tienes un dominio personalizado
+url: "https://AKarolMP.github.io" # URL de tu GitHub Pages
