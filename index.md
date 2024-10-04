@@ -7,5 +7,5 @@ Bienvenido a mi portafolio. A continuación, se encuentran algunos de los proyec
 ### Proyecto 1: Aplicación Web
 - **Descripción**: Desarrollo de una aplicación web interactiva usando React y Node.js.
 - **Enlace**:
-//- [Visitar proyecto](https://nombreusuario.github.io/proyecto1)
+  **- [Visitar proyecto](https://nombreusuario.github.io/proyecto1)**
 
